@@ -1,0 +1,9 @@
+{
+	"name": "adlookupdemo",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "469338d6-07b3-45e0-ab01-1d381b3e7888",
+		"tenantId": "dbd6664d-4eb9-46eb-99d8-5c43ba153c61"
+	}
+}

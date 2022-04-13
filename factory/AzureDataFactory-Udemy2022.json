@@ -1,0 +1,9 @@
+{
+	"name": "AzureDataFactory-Udemy2022",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1eb6b96d-7b8d-4275-aa51-aa4588859d8e",
+		"tenantId": "1f23fc79-a269-47fa-bd43-25222e9e5774"
+	}
+}
